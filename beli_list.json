@@ -1,0 +1,3189 @@
+{
+  "source": "Beli screen recording supplied by user",
+  "list_type": "Been",
+  "entry_count": 395,
+  "restaurants": [
+    {
+      "score": 10.0,
+      "name": "Pujol",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 10.0,
+      "name": "ARCA",
+      "city": "Tulum",
+      "country": "Mexico",
+      "cuisine": "Mexican, Cocktail Bar",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 10.0,
+      "name": "Punch Room",
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 10.0,
+      "name": "Live Twice",
+      "city": "Singapore",
+      "country": "Singapore",
+      "cuisine": "Cocktail Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 10.0,
+      "name": "Pasteleria Hofmann",
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 10.0,
+      "name": "GOAT COFFEE",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 10.0,
+      "name": "ONN KYOTO",
+      "needs_review": true,
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Japanese, Matcha, Dessert",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 10.0,
+      "name": "RAU patisserie & chocolate",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Bakery, Dessert, Chocolate Shop",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 10.0,
+      "name": "Gatto Verde",
+      "city": "Modena",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 10.0,
+      "name": "Francescana at Maria Luigia",
+      "city": "Modena",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 10.0,
+      "name": "Quince",
+      "city": "San Francisco",
+      "country": "United States",
+      "cuisine": "American, French, Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 10.0,
+      "name": "undebt cafe",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Coffee, Cocktail Bar, Dessert",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 10.0,
+      "name": "Yingtao",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Chinese, Contemporary",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 10.0,
+      "name": "L’Appartement 4F",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, French",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.9,
+      "name": "Ca'n Pintxo Restaurant",
+      "city": "Sóller",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Dashin Soan",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese, Soba",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Gion Loka",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Marguerite",
+      "city": "Singapore",
+      "country": "Singapore",
+      "cuisine": "European",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Nabura",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Momos Yeongdo Roastery & Coffee",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Coffee bar",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.9,
+      "name": "Supermoon Bakehouse",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, Ice Cream",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.9,
+      "name": "Oiji Mi",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Asian Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Jua",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Pasteleria Hofmann",
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.9,
+      "name": "Shimizu-Ippoen Kyoto Main",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Dessert, Japanese",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.9,
+      "name": "Atoboy",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "(escondido)",
+      "needs_review": true,
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "KOTTON.SEOUL",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Coffee, Tea, Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Compartir Barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Mediterranean, Contemporary, Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Librae Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, Middle Eastern, Arabic",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.9,
+      "name": "Momos Coffee Flagship Store",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Cafe, Coffee Shop, Bakery",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.9,
+      "name": "Paloma Coffee & Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.9,
+      "name": "Chi Spacca",
+      "city": "Los Angeles",
+      "country": "United States",
+      "cuisine": "Italian, Steakhouse",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.9,
+      "name": "Bangkok Supper Club",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Podere 39",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian, Tapas",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Podere al mare",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "% Arabica",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee, Matcha",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.8,
+      "name": "Casa Ciabattini",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Aldama",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Rolo's",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "American, Contemporary, Burgers",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Manuela",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Contemporary",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Gucci Osteria da Massimo Bottura",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Tsukimi",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Kaiseki",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Jeju Noodle Bar",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Ramen",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Osteria dell'Orologio",
+      "city": "Salò",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.8,
+      "name": "Devoción",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Cafe, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.8,
+      "name": "BRACH PATISSERIE",
+      "city": "Madrid",
+      "country": "Spain",
+      "cuisine": "Cafe, Dessert",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.8,
+      "name": "iO - Osteria Personale",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Enoteca Pitti Gola e Cantina",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.7,
+      "name": "% ARABICA Kyoto",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Coffee, Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.7,
+      "name": "IYO",
+      "city": "Milan",
+      "country": "Italy",
+      "cuisine": "Japanese, Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Sumibi Kappo Shirosaka",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Jayeondo Sogeumppang (Salt Bread)",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.7,
+      "name": "Suzukake Azabudai Hills Store",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Dessert, Japanese",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.7,
+      "name": "LenLen",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Kissaki Sushi",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi, Omakase",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Umeko",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "The Residence of Mr. Moto",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Sushi, Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Corduroy fellaz",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Cocktail Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.7,
+      "name": "Té Company",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Taiwanese, Chinese, Tea",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.7,
+      "name": "La Viña",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Basque, Tapas, Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "konban NYC",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Izakaya",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Kuuk",
+      "city": "Merida",
+      "country": "Mexico",
+      "cuisine": "Mexican, Contemporary",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Udatsu Sushi",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese, Sushi, Omakase",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Lysée",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Dessert, Bakery",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.7,
+      "name": "Restaurante Mina",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.7,
+      "name": "Momos Coffee Flagship Store",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Cafe, Coffee Shop, Bakery",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.7,
+      "name": "Do Not Feed Alligators",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee, Dessert, Matcha",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.7,
+      "name": "LV. Coffee Project",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee, Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.7,
+      "name": "Camouflage Coffee",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.7,
+      "name": "Café Pasticceria Gamberini",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Cafe",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.7,
+      "name": "Black Brick Coffee",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, Cafe, Coffee Shop",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.6,
+      "name": "Monk",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Carissa's the Bakery - East Hampton",
+      "city": "East Hampton",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.6,
+      "name": "Bodegon Asador Joxe Mari",
+      "city": "Orio",
+      "country": "Spain",
+      "cuisine": "Basque",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Llama San",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Quique Crudo",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mexican, Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Penny",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Seafood, Wine Bar, American",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.6,
+      "name": "C-ucina",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Contemporary",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Raku",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Udon, Noodles",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "State Bird Provisions",
+      "city": "San Francisco",
+      "country": "United States",
+      "cuisine": "Californian, Asian Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Francie",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "French, Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Sailor",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "American, Burgers, Bistro",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Fish Cheeks",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Thai, Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Demo",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bar, Cafe, Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.6,
+      "name": "Asakusa Chaya Tabanenoshi",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Dessert",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.6,
+      "name": "Carissa's the Bakery - Amagansett",
+      "city": "East Hampton",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.6,
+      "name": "Carissa's the Bakery - Sag Harbor",
+      "city": "Sag Harbor",
+      "country": "United States",
+      "cuisine": "Cafe, Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.6,
+      "name": "Molly Tea (Manhattan)",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bubble Tea, Tea",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.6,
+      "name": "Casa T’HO Concept House",
+      "city": "Merida",
+      "country": "Mexico",
+      "cuisine": "Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.5,
+      "name": "nf/soto",
+      "city": "Los Angeles",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi, Izakaya",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "HRS",
+      "needs_review": true,
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Borda Berri",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Spanish, Tapas",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Maren Anna",
+      "city": "Sørvågen",
+      "country": "Norway",
+      "cuisine": "Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Alassio",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Mediterranean, Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "ATLA Noho",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Innocenti Wines - Ristorante",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian, Wine",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Di An Di",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Vietnamese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "ARIARI",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Cuvée at Chatham Inn",
+      "city": "Chatham",
+      "country": "United States",
+      "cuisine": "American",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Parachute",
+      "city": "San Francisco",
+      "country": "United States",
+      "cuisine": "Bakery, Coffee Shop",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.5,
+      "name": "Gelateria Pintucci",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Gelato",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.5,
+      "name": "Birdee",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.5,
+      "name": "Thai Diner",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Thai, Asian Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Wayla",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Llama Inn",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Peruvian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.5,
+      "name": "Artesano",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Peruvian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Caffé Panna",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Dessert",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.4,
+      "name": "Narru Restaurant",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Bread Ahead Bakery Pavilion",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Bakery, Dessert",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.4,
+      "name": "El Globo | Plaza Nueva",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque, Spanish, Tapas",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Ambassadors Clubhouse",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Indian, North Indian, Punjabi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Borgo",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Massara On Park",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian, European",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "I Sodi",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Massara",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian, European",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Bar Basque",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.4,
+      "name": "Blind Spot",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Dessert, Coffee, Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.4,
+      "name": "Last Word",
+      "city": "Singapore",
+      "country": "Singapore",
+      "cuisine": "Cocktail Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.4,
+      "name": "BAR SOKO",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Cocktail Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.4,
+      "name": "Lac Coffee",
+      "city": "Newark",
+      "country": "United States",
+      "cuisine": "Coffee, Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.4,
+      "name": "Cha-An",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Matcha, Dessert",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.4,
+      "name": "Pasticceria Gualtieri",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Bakery, Italian",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.4,
+      "name": "El Globo tavern",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque, Spanish, Tapas",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.4,
+      "name": "Onion Cafe Gwangjang Market Branch",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bakery, Coffee, Korean",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.4,
+      "name": "gi-jin",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Haenyeo",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "38 (Horongbul) | Makgeolli",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Korean",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.3,
+      "name": "La Cabra Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, Coffee, Cafe",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.3,
+      "name": "La Cabra",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee, Bakery, Danish",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.3,
+      "name": "Casa Urola",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Basque",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Caffé Panna",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Ice Cream, Gelato",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.3,
+      "name": "Boro Brine",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Fish Cheeks Brooklyn",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Shoji",
+      "city": "San Francisco",
+      "country": "United States",
+      "cuisine": "Japanese, Cocktail Bar, Matcha",
+      "venue_type": "bar"
+    },
+    {
+      "score": 9.3,
+      "name": "Altius",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "American",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "by Antidote",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Chinese, Sichuan",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Ensenada",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Seafood, Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Maxwells Trading",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "American, Asian Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Moono",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Molly Tea (Manhattan)",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bubble Tea, Tea",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.3,
+      "name": "sause takoyaki stand",
+      "needs_review": true,
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Japanese street food",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Trattoria Sostanza",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian, Chicken",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Cuerno",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mexican, Steakhouse",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Hirohisa",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Kaiseki",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "FET-FISK restaurant + bar",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Contemporary, Nordic, Scandinavian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Rio Bistrot",
+      "city": "Riomaggiore",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Yoon Haeundae Galbi",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Barbecue, Meat",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Fish Market Tsukiji Outer Market",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese, Market, Sushi",
+      "venue_type": "market"
+    },
+    {
+      "score": 9.3,
+      "name": "HOJOKBAN NYC",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Asian Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "The Sea, The Sea",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "San Laurel",
+      "city": "Los Angeles",
+      "country": "United States",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "floret San Niccolo",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Hotel BellaRiva",
+      "city": "Gardone Riviera",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "JUMBO Seafood - Jewel",
+      "city": "Singapore",
+      "country": "Singapore",
+      "cuisine": "Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "BRAT Restaurant",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Basque, British, Grill",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Olle",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.3,
+      "name": "Osteria Caorlotta",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.2,
+      "name": "K'Far",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mediterranean, Middle Eastern",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.2,
+      "name": "Red Gate Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.2,
+      "name": "Sorate",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Pre Amp Coffee Studio",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Sandwiches",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Kettl Tea",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Simona Specialty Coffee",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Cafe, Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Cafe Rabbit",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Don Carvajal Café",
+      "city": "Irvington",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Breakfast, Dominican",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Mechanic Coffee Company",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee, Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Artful Blend Shoreditch",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Coffee Shop, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Osulloc Tea House Bukchon",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bakery",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Blind Spot",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Dessert, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.2,
+      "name": "Caffé Gilli",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 9.1,
+      "name": "Ozakaya",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi, Izakaya",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "OTARU Japanese Restaurant",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "PALLAS",
+      "city": "Chania",
+      "country": "Greece",
+      "cuisine": "Greek",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "Daniel Corpuz Chocolatier",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Chocolate Shop",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.1,
+      "name": "Salotto Portinari Bistrot di",
+      "needs_review": true,
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "Hunan Slurp",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Hunan",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "[non-Latin name]",
+      "needs_review": true,
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "Il Santo Bevitore",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "Jayeondo Sogeumppang",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.1,
+      "name": "ACRE",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Cafe",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.1,
+      "name": "Birdee",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.0,
+      "name": "Taiyaki NYC Japanese Ice Cream",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Dessert, Ice Cream, Japanese",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.0,
+      "name": "Pastry Salon",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Pastries",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.0,
+      "name": "Soft Swerve Ice Cream",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Ice Cream",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.0,
+      "name": "Soft Swerve",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Frozen Yogurt, Ice Cream",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.0,
+      "name": "21時にアイス 京都河原町店",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "Ice Cream",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.0,
+      "name": "Angelina 東急プラザ原宿「ハラカド」店",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "French, Cake, Dessert",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 9.0,
+      "name": "Her Name is Han",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "K'Far",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mediterranean, Middle Eastern",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Golden Gai",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Madeleine Bakery and Bistro",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.0,
+      "name": "Venice M'Art",
+      "city": "Venice",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Dobbs Ferry Lobster Guys",
+      "city": "Dobbs Ferry",
+      "country": "United States",
+      "cuisine": "Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "abc kitchens",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Mediterranean, Californian, Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Bilbao Berria Ledesma",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Eylan",
+      "city": "Menlo Park",
+      "country": "United States",
+      "cuisine": "Indian, Californian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Araia",
+      "city": "Madrid",
+      "country": "Spain",
+      "cuisine": "Mediterranean, Greek, Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Le Crocodile",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "French",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 9.0,
+      "name": "Breads Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, Cafe, Jewish",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 9.0,
+      "name": "Birds of a Feather",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Chinese, Sichuan",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "The Vandal",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "French, Wine Bar",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "Il Buco Alimentari & Vineria",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "BAR SPORT",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Basque, Tapas, Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "Antidote",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Chinese, Sichuan",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "La Bicyclette Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, French",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.9,
+      "name": "Chalong Southern Thai",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "Belly",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Filipino",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "Kensei | Sushi & Japanese Cuisine",
+      "city": "Costa Adeje",
+      "country": "Spain",
+      "cuisine": "Sushi, Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "ELOREA",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.9,
+      "name": "Restaurante Salmarina Playa Quemada",
+      "city": "Playa Quemada",
+      "country": "Spain",
+      "cuisine": "Spanish seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "Aramendia Pasteleria",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Bakery, Pastries",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.9,
+      "name": "Shukette",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mediterranean, Middle Eastern",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "Taiwanese Eats",
+      "city": "Redwood City",
+      "country": "United States",
+      "cuisine": "Taiwanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "HOWOO",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean, Barbecue, Steakhouse",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.9,
+      "name": "Joo Ok",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "MARS COFFEE",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.8,
+      "name": "Siempre Algo",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "American",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "72H Artisanal Bakery &",
+      "needs_review": true,
+      "city": "Athens",
+      "country": "Greece",
+      "cuisine": "Bakery, Cafe",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.8,
+      "name": "méc mac",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Vietnamese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Kiko",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "American",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Oxomoco",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Morcilla",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Basque, Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "CURDELON",
+      "city": "San Sebastián",
+      "country": "Spain",
+      "cuisine": "Wine and small plates",
+      "venue_type": "bar"
+    },
+    {
+      "score": 8.8,
+      "name": "Café-Flor",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.8,
+      "name": "Picky",
+      "city": "Athens",
+      "country": "Greece",
+      "cuisine": "Brunch",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.8,
+      "name": "Son del North",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Fan Fan Doughnuts",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery, Latin",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.8,
+      "name": "Bupyeongdong Maetdol",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "10 Butchers Korean BBQ",
+      "city": "Sunnyvale",
+      "country": "United States",
+      "cuisine": "Korean, Meat",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "moemiljip",
+      "needs_review": true,
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Lucy's Vietnamese - Williamsburg",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Vietnamese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Nan Xiang Soup Dumplings - Pittsburgh",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Chinese, Dumplings, Shanghainese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Kyuramen",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Restaurante Sokarrat Bilbao",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "DubuHaus",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Gure Toki",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque, Spanish, Tapas",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "BERTON",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "MOGMOG",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi, Grocery",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Lola's Eatery",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Bakery, Filipino",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.8,
+      "name": "Bistro Salitre Bilbao",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Hey Babe",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Contemporary",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Maki a Mano",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Persimmon",
+      "city": "Providence",
+      "country": "United States",
+      "cuisine": "American, Contemporary",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Publico - Cuina de Mercat",
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "L'industrie Pizzeria - Williamsburg",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "[Japanese name]",
+      "needs_review": true,
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Ineffable Ca Phé",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Vietnamese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Fish N' Ting Restaurant, Bar",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Caribbean, Jamaican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "Toyosu Market",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese, Seafood",
+      "venue_type": "market"
+    },
+    {
+      "score": 8.8,
+      "name": "Jun-Men Ramen Bar",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Ramen",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.8,
+      "name": "골림 서촌점",
+      "needs_review": true,
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "French, Dessert, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.7,
+      "name": "Ghost Coffee Collab",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.7,
+      "name": "Whisper",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Bar, Dessert",
+      "venue_type": "bar"
+    },
+    {
+      "score": 8.7,
+      "name": "Garlic Boy",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Korean, Bakery, Dessert",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.7,
+      "name": "Mandrake Café",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee, Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.7,
+      "name": "Doughnut Plant",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Cafe, Donuts, American",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.7,
+      "name": "Café Oh! Beautiful",
+      "city": "Geoje",
+      "country": "South Korea",
+      "cuisine": "Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.7,
+      "name": "Fura",
+      "city": "Singapore",
+      "country": "Singapore",
+      "cuisine": "Cocktail Bar, Bar, Bar Food",
+      "venue_type": "bar"
+    },
+    {
+      "score": 8.6,
+      "name": "La Colombe Coffee Roasters",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Cafe, Coffee Shop, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.6,
+      "name": "Levain Bakery - Wainscott",
+      "city": "Wainscott",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.6,
+      "name": "[Korean name]",
+      "needs_review": true,
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": null,
+      "venue_type": "restaurant",
+      "metadata_needs_review": true
+    },
+    {
+      "score": 8.6,
+      "name": "Raku",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Udon, Noodles",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.6,
+      "name": "Heat Check",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee, Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.6,
+      "name": "Roostiq",
+      "city": "Madrid",
+      "country": "Spain",
+      "cuisine": "Spanish, Wine Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 8.6,
+      "name": "Angel",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Indian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.6,
+      "name": "Pusadee's Garden",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.6,
+      "name": "Allegro - Vegan Bakery & Sandwich Shop",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Sandwiches, Vegan",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.6,
+      "name": "Five Points Artisan Bakeshop",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.6,
+      "name": "Kin Khao",
+      "city": "San Francisco",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Spot Dessert Bar East Village",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Dessert, Asian",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.5,
+      "name": "Pre Amp Coffee Studio",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Sandwiches",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.5,
+      "name": "Roasting Party",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Coffee Shop, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.5,
+      "name": "Saigon Social",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Vietnamese, Asian, Southeast Asian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "La Dong",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Vietnamese, Pho, Banh Mi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Wayan & Ma-dé Out East",
+      "needs_review": true,
+      "city": "East Hampton",
+      "country": "United States",
+      "cuisine": "Asian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Petritegi Sagardotegia",
+      "city": "Astigarraga",
+      "country": "Spain",
+      "cuisine": "Spanish, Steakhouse",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Casa Lolea",
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "[Korean name]",
+      "needs_review": true,
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bar, Cocktail Bar",
+      "venue_type": "bar"
+    },
+    {
+      "score": 8.5,
+      "name": "COLOMBINO Coffee",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.5,
+      "name": "BALVANERA",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Argentinian, Tapas",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Bun House Disco",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Asian, Cantonese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "La Tazza D'Oro",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.5,
+      "name": "Mille-Feuille Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.5,
+      "name": "Mola",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Dopios",
+      "city": "Athens",
+      "country": "Greece",
+      "cuisine": "Greek",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Cokooncafé",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Brunch",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Lilia",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "Brac",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian, Vegan, Vegetarian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.5,
+      "name": "La Tazza D'Oro",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.4,
+      "name": "Ottolenghi Marylebone",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Middle Eastern, Mediterranean, Vegetarian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.4,
+      "name": "T-swirl Crepe",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "French, Japanese",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Ottolenghi Chelsea",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Delicatessen, Mediterranean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.4,
+      "name": "[Korean name]",
+      "needs_review": true,
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": null,
+      "venue_type": "restaurant",
+      "metadata_needs_review": true
+    },
+    {
+      "score": 8.4,
+      "name": "Sorate",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Matcha, Tea",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.4,
+      "name": "Peel",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Chinese",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.4,
+      "name": "MeetCha",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Dessert",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.4,
+      "name": "La Prima Espresso Company",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.4,
+      "name": "bohl",
+      "needs_review": true,
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Cafe, Vegetarian",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.4,
+      "name": "OKDONGSIK New York",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.4,
+      "name": "Jagalchi Market",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Korean, Seafood, Market",
+      "venue_type": "market"
+    },
+    {
+      "score": 8.4,
+      "name": "Afuri",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Ramen",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.4,
+      "name": "Cho Dang Gol",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.4,
+      "name": "Radio Bakery",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.4,
+      "name": "TSUJIRI Chinatown",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Japanese, Matcha, Dessert",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Gelateria La Carraia",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Dessert",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Xing Fu Tang",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Taiwanese, Dessert",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Ice Cream Union - SPA Terminus Market",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Ice cream",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Xing Fu Tang",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Taiwanese, Bubble Tea, Ice Cream",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "SunnyHills minamiaoyama",
+      "city": "Tokyo",
+      "country": "Japan",
+      "cuisine": "Japanese, Taiwanese, Dessert",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Amorino",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Ice Cream, Gelato",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Tsaocaa",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Bubble Tea",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.4,
+      "name": "Venchi Gelato and Chocolate",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Ice Cream",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.4,
+      "name": "Raku",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Udon, Noodles ‘",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.4,
+      "name": "Casa Picar",
+      "city": "Santa Cruz de Tenerife",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Eataly NYC Flatiron",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Italian, Market",
+      "venue_type": "market"
+    },
+    {
+      "score": 8.3,
+      "name": "Tashkent Supermarket Halal",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Uzbek, Market",
+      "venue_type": "market"
+    },
+    {
+      "score": 8.3,
+      "name": "BAO Marylebone",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Taiwanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Bar 81",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bar, Bar Food, Drinks",
+      "venue_type": "bar"
+    },
+    {
+      "score": 8.3,
+      "name": "Happe bread shop",
+      "needs_review": true,
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.3,
+      "name": "Estia's Little Kitchen",
+      "city": "Sag Harbor",
+      "country": "United States",
+      "cuisine": "American, Latin American, Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "La Ménagère",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "French, Italian, Brunch",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Tartine Bakery Seoul",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.3,
+      "name": "Papa d'Amour",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.3,
+      "name": "MA/NA Mayfair",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Dune Brothers Seafood",
+      "city": "Providence",
+      "country": "United States",
+      "cuisine": "Seafood, New England",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Davelle",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Brunch",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Manuela",
+      "city": "Los Angeles",
+      "country": "United States",
+      "cuisine": "American, Southern, Brunch",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "BREIZH Café Créperie Kyoto",
+      "city": "Kyoto",
+      "country": "Japan",
+      "cuisine": "French",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Duryea's Montauk",
+      "city": "Montauk",
+      "country": "United States",
+      "cuisine": "Seafood",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Pastis",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "French, Brunch",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Inlet Seafood Restaurant",
+      "city": "Montauk",
+      "country": "United States",
+      "cuisine": "American, Japanese, Seafood, Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Dongbaek Samgyetang",
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Korean, Chicken soup",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Umami",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Japanese, Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Mi Tocaya Antojeria",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Coppa Club, London Bridge",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "British, European",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Senyai Thai Kitchen",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Thai",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Dalla Lola",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Rooted",
+      "city": "Montauk",
+      "country": "United States",
+      "cuisine": "American",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Porta Romana - Pizza e Grill",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Italian, Pizza",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Dolli's",
+      "city": "Athens",
+      "country": "Greece",
+      "cuisine": "Seafood, Greek",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Buvette",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "French, Brunch",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Pho Van Pittsburgh",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Pho, Vietnamese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "DK Sushi",
+      "city": "Philadelphia",
+      "country": "United States",
+      "cuisine": "Sushi",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Noriko Handroll Bar",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "Sushi, Japanese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "Cowfish",
+      "city": "Hampton Bays",
+      "country": "United States",
+      "cuisine": "Seafood, New England",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.3,
+      "name": "BUBA Bureka",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Mediterranean, Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.3,
+      "name": "Cédric Grolet at The Berkeley",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Bakery, Dessert",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.2,
+      "name": "Sorate",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Japanese, Matcha",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.2,
+      "name": "Wild Buns Bakery",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Bakery, Cafe, Dessert",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.2,
+      "name": "Fenchurch Restaurant",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "British, Caribbean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.2,
+      "name": "Restaurante Playa Casa Africa",
+      "city": "Taganana",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.2,
+      "name": "Bánh by Lauren",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee, Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.2,
+      "name": "Sakuhin Coffee",
+      "city": "Madrid",
+      "country": "Spain",
+      "cuisine": "Coffee Shop, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Wild Buns Bakery",
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Scandinavian",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.1,
+      "name": "maman",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Cafe, Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.1,
+      "name": "Ikovox Coffee Samsung Coex",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Korean, Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Kafe Wrights",
+      "needs_review": true,
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Korean E",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Georgie's",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Cafe, Bakery",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Outset Coffee - Financial District",
+      "city": "San Francisco",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Xing Fu Tang",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Taiwanese, Bubble Tea, Ice Cream",
+      "venue_type": "dessert"
+    },
+    {
+      "score": 8.1,
+      "name": "Canyon Coffee",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Coffee, Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Centred Coffee & Wellness",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "FASAN",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Coffee",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Greenburg Café",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "REMI FLOWER COFFEE",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee Shop, Coffee, Matcha",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Loveless Coffees",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee Shop",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Kona Coffee Roasters | Midtown",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "Coffee, Coffee Shop, Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "brothmonger",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Soups, Soup, Sandwiches",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "abc kitchens",
+      "city": "New York City",
+      "country": "United States",
+      "cuisine": "French, Latin, American",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "Yue Bai Wei",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Chinese, Sichuan, Chinese, Sichuan",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "Agua y Sal",
+      "city": "San Miguel de Tajao",
+      "country": "Spain",
+      "cuisine": "Seafood, Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "El Recoveco de NaRa",
+      "city": "Costa Teguise",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "Publican Quality Meats",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "American, Meat, Sandwiches",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "Santa Masa Tamaleria",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "La Bodega",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Mexican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "Stuntpig",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Sandwiches, Fusion",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.1,
+      "name": "Cousin Cafe",
+      "city": "Newark",
+      "country": "United States",
+      "cuisine": "Cafe",
+      "venue_type": "cafe"
+    },
+    {
+      "score": 8.1,
+      "name": "Lost Larson (Wicker Park)",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.1,
+      "name": "Harry Gordon's Bar & Kitchen",
+      "city": "London",
+      "country": "United Kingdom",
+      "cuisine": "Spanish",
+      "venue_type": "bar"
+    },
+    {
+      "score": 8.0,
+      "name": "Gamjeon",
+      "needs_review": true,
+      "city": "Busan",
+      "country": "South Korea",
+      "cuisine": "Korean",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.0,
+      "name": "Colony",
+      "city": "Singapore",
+      "country": "Singapore",
+      "cuisine": "Seafood, Asian, Western",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.0,
+      "name": "CHAR Fuego y Brasas | Steak",
+      "city": "La Caleta",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.0,
+      "name": "Paris Croissant Seoul Station",
+      "city": "Seoul",
+      "country": "South Korea",
+      "cuisine": "Bakery, Coffee",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 8.0,
+      "name": "Lilith",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Fusion, Sicilian, Puerto Rican",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.0,
+      "name": "La Puerta Verde",
+      "city": "Haría",
+      "country": "Spain",
+      "cuisine": "Spanish",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.0,
+      "name": "Café Iruña",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Spanish, Tapas, Basque",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.0,
+      "name": "La Olla de la Plaza Nueva",
+      "city": "Bilbao",
+      "country": "Spain",
+      "cuisine": "Basque",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 8.0,
+      "name": "Green Street Smoked Meats",
+      "city": "Chicago",
+      "country": "United States",
+      "cuisine": "Barbecue, Meat",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 7.9,
+      "name": "Pasticceria Silvano e",
+      "needs_review": true,
+      "city": "Florence",
+      "country": "Italy",
+      "cuisine": "Bakery",
+      "venue_type": "bakery"
+    },
+    {
+      "score": 7.9,
+      "name": "Wise County Biscuits & Cafe",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Breakfast, Southern",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 7.9,
+      "name": "Parking Pizza C/ VALENCIA",
+      "city": "Barcelona",
+      "country": "Spain",
+      "cuisine": "Pizza",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 7.9,
+      "name": "Sichuan Gourmet",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Chinese",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 7.9,
+      "name": "Driftwood Oven",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Pizza",
+      "venue_type": "restaurant"
+    },
+    {
+      "score": 7.9,
+      "name": "BéLa",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "cuisine": "Vietnamese",
+      "venue_type": "restaurant"
+    }
+  ],
+  "notes": "City and country are transcribed from the Beli screen recording; cuisine follows the visible Beli category when available and is inferred from the venue name for a few unlabeled entries. Venue type is one primary category. A few fields are null where the recording or venue identity was unclear; metadata_needs_review marks those entries. The original needs_review flag concerns uncertain name transcription. Entries remain in the original descending Beli score order; score is the visible Beli rating on a 10-point scale."
+}
