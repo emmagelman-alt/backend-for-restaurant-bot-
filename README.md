@@ -16,7 +16,6 @@ city (or country) plus a cuisine or type of place, and get back spots from my Be
 
 - `app.py`: FastAPI service
 - `beli_list.json`: my Beli Been list
-- `chat-demo.html`: standalone frontend for local testing
 - `render.yaml`: Render deploy config
 
 ## Run locally
@@ -27,7 +26,8 @@ cp .env.example .env   # then add your GROQ_API_KEY
 uvicorn app:app --reload
 ```
 
-Open `chat-demo.html` in a browser; it talks to `http://localhost:8000` when opened locally.
+The frontend lives in my portfolio site repo. The API allows requests from the origins in
+`ALLOWED_ORIGINS` (defaults to my GitHub Pages site).
 
 ## Deploy
 
