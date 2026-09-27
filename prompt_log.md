@@ -5,12 +5,31 @@
 | Tool | Used for |
 |---|---|
 | **Claude Code** (Claude desktop app, model **Claude Opus 5.5**) | Planning the architecture, writing `app.py`, the frontend chat in my portfolio repo, `render.yaml` and this documentation; testing locally in its browser pane; committing and pushing |
+| **ChatGPT** ([shared conversation](https://chatgpt.com/share/6ab9716d-3db4-83ea-b3ed-8a4b02f206d0)) | Turning a screen recording of my Beli Been list into `beli_list.json` |
 | **Groq API**, model `openai/gpt-oss-120b` | Runs inside the deployed app, not a coding tool: extracts search filters from each visitor message and writes the short reply intro |
 
-My Beli list (`beli_list.json`) was transcribed from a screen recording of my Beli app. The
-restaurants and ratings are my own.
+## Creating the data with ChatGPT
 
-## Key prompts
+Beli has no export or public API, so I screen-recorded my Been list in the app and had ChatGPT
+transcribe it. The restaurants and ratings are my own; ChatGPT only converted them to JSON.
+
+1. *(Uploaded the screen recording)*: ChatGPT extracted 395 entries in rank order as JSON and
+   flagged 20 names it couldn't read confidently (cut-off or non-Latin text) with
+   `"needs_review": true`.
+2. > Can you also include the location of each restaurant (city, country) and the type of cuisine,
+   > and if it is a restaurant, bar, dessert, bakery, cafe)
+
+   This added `city`, `country`, `cuisine` and `venue_type`. Places it couldn't identify were
+   flagged with `"metadata_needs_review": true`.
+3. > Instead of having "rank" can you assign each entry the score I gave it on beli?
+
+   This replaced `rank` with my Beli `score`, the field the backend uses for the 8.0 cutoff.
+
+Because this was transcribed from video, the backend defends against its gaps. `load_places()`
+skips placeholder names like `[Korean name]` and entries with no city, and keeps only the
+highest-scored copy of any duplicate.
+
+## Key prompts to Claude Code
 
 My prompts are quoted as I typed them, in order. Each is followed by what it led to.
 
@@ -42,7 +61,7 @@ Claude asked four clarifying questions first. My answers set the architecture:
 
 > use this instead
 
-The first export only had rank order, not scores. The second had a score for every place, so the
+These were the two ChatGPT versions above. The first only had rank order, not scores. The second had a score for every place, so the
 backend was rewritten to read the JSON directly. It skips placeholder names, removes repeat
 visits and keeps places scored 8.0 or higher. The file has no prices, so the price filter was
 dropped, and the bot says so if someone asks about budget.

@@ -152,7 +152,7 @@ after that can take 30–50 seconds.
 | File | What it is |
 |---|---|
 | `app.py` | FastAPI service (endpoints, Groq calls, matching) |
-| `beli_list.json` | My Beli Been list: name, city, country, cuisine, place type and score |
+| `beli_list.json` | My Beli Been list (name, city, country, cuisine, place type, score), transcribed from a screen recording with ChatGPT |
 | `requirements.txt` | Python dependencies |
 | `render.yaml` | Render deploy config |
 | `.env.example` | Template for local environment variables |
