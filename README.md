@@ -19,7 +19,13 @@ the matching against `beli_list.json`, so every result is a real place I've been
    cuisines and place types that exist in my list, and the server throws out any value that isn't
    in that list.
 2. **Find matches (Python):** filter my 368 places rated 8.0+ by area, cuisine and place type,
-   sort by score and keep the top 8.
+   and return **every** match, sorted by score. Matching is forgiving:
+   - A place type also matches a tag with the same name, so a cafe tagged "Bakery" counts as a
+     bakery.
+   - If the exact request finds nothing, the search loosens step by step. "Japanese dessert"
+     tries Japanese, then dessert. A tag with no local matches, like "Pastries", falls back to the
+     place type it usually belongs to (bakery). The intro then says the results are broader than
+     asked.
 3. **Write the intro (Groq):** one or two casual sentences in my voice about the matched places
    only. The list itself is sent as data, not written by the AI.
 
@@ -61,7 +67,7 @@ Get recommendations for one chat message.
 | Field | Type | Notes |
 |---|---|---|
 | `reply` | string | The bot's message: an intro, or a follow-up question when details are missing |
-| `places` | array | Matching places, best first, at most 8. Empty when `reply` is a question |
+| `places` | array | All matching places, best first. Empty when `reply` is a question or nothing matched |
 
 Each place has `name`, `city`, `country`, `category` (`restaurant`, `cafe`, `bakery`, `dessert`,
 `bar` or `market`), `cuisines` (list of strings) and `score` (my Beli rating out of 10).
